@@ -50,3 +50,14 @@ Here's the example output of my current procedural city generator.
 
 ![milestone1](./Milestone1.png)
 
+## Milestone #2 or 3 (11/24)
+
+Progress:
+
+* Basic components are mostly done, coloring are in progress. The whole generator is mostly done.
+
+    As suggested by Professor Rachel, more different types of structures should be added, and the buildings should have some kinds of random heights if possible. So these are the final goals I'm trying to accomplish before final submission.
+
+* In progress generator (click to see demo video):
+
+    [![milestone2](./Milestone2.png)](https://drive.google.com/file/d/1rmhWqaHGfh11qDIfBGuMA3ZY-csSYwmD/view?usp=drive_link)
